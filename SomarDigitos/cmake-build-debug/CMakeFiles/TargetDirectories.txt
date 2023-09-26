@@ -1,0 +1,3 @@
+Z:/Biblioteca/Documentos/My Projects/C/InfoApl-L1/SomarDigitos/cmake-build-debug/CMakeFiles/SomarDigitos.dir
+Z:/Biblioteca/Documentos/My Projects/C/InfoApl-L1/SomarDigitos/cmake-build-debug/CMakeFiles/edit_cache.dir
+Z:/Biblioteca/Documentos/My Projects/C/InfoApl-L1/SomarDigitos/cmake-build-debug/CMakeFiles/rebuild_cache.dir

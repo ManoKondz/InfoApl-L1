@@ -1,4 +1,4 @@
-# Install script for directory: Z:/Biblioteca/Documentos/My Projects/C/Lista 1/Atividade11
+# Install script for directory: Z:/Biblioteca/Documentos/My Projects/C/InfoApl-L1/Atividade11
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "Z:/Biblioteca/Documentos/My Projects/C/Lista 1/Atividade11/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "Z:/Biblioteca/Documentos/My Projects/C/InfoApl-L1/Atividade11/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
